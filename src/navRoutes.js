@@ -1,5 +1,5 @@
 // Navigation Routes
-// Set meta.nav to true for a route for it to be added to the navigation routes
+// Set meta.nav to true for a route in router.js for it to be added to the navigation routes
 import router from '@/router'
 
 const routes = router.options.routes
